@@ -6,7 +6,7 @@ saat bekerja di olmatix:<br>
 (employee monitoring system, e-sertifikat, kurir tracking)<br>
 <br>
 saat bekerja di rsk:<br>
-(parsing data, monitoring alat & pusat monitoring lapangan + visualisasi data untuk analisis, e-disposisi, monitoring signal)<br>
+(parsing data, monitoring alat & pusat monitoring lapangan + visualisasi data untuk analisis, e-disposisi, visualisasi data signal, API mobile POS)<br>
 <br>
 project lain:<br>
 Sistem pembelajaran melalui opensimulator (http://opensimulator.org/) + moodle (https://moodle.com/)<br>
